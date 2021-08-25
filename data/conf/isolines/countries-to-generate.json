@@ -1530,6 +1530,14 @@
             }
         },
         {
+            "key": "China_Guangdong",
+            "value": {
+                "profileName": "normal",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
             "key": "China_Guangxi",
             "value": {
                 "profileName": "poor",
