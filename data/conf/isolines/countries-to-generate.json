@@ -5179,6 +5179,14 @@
             }
         },
         {
+            "key": "Namibia",
+            "value": {
+                "profileName": "normal",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
             "key": "Nauru",
             "value": {
                 "profileName": "high",
