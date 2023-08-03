@@ -340,7 +340,7 @@
         {
             "key": "Argentina_Cuyo",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -356,7 +356,7 @@
         {
             "key": "Argentina_Northwest",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -364,7 +364,7 @@
         {
             "key": "Argentina_Pampas",
             "value": {
-                "profileName": "extra_small",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -372,7 +372,7 @@
         {
             "key": "Argentina_Patagonia",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -1500,7 +1500,15 @@
         {
             "key": "Chile_North",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "Chile_South",
+            "value": {
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -1675,6 +1683,22 @@
         },
         {
             "key": "China_Shanxi",
+            "value": {
+                "profileName": "poor",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "China_Tibet Autonomous Region",
+            "value": {
+                "profileName": "extra_small",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "China_Xinjiang",
             "value": {
                 "profileName": "poor",
                 "tileCoordsSubset": [],
@@ -4877,7 +4901,15 @@
         {
             "key": "Kazakhstan_North",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "Kazakhstan_South",
+            "value": {
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -4909,7 +4941,7 @@
         {
             "key": "Kyrgyzstan",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -5181,7 +5213,7 @@
         {
             "key": "Namibia",
             "value": {
-                "profileName": "normal",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -5981,7 +6013,7 @@
         {
             "key": "Russia_Amur Oblast",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -5997,7 +6029,7 @@
         {
             "key": "Russia_Arkhangelsk Oblast_North",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6037,7 +6069,7 @@
         {
             "key": "Russia_Buryatia",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6054,6 +6086,14 @@
             "key": "Russia_Chelyabinsk Oblast",
             "value": {
                 "profileName": "normal",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "Russia_Chukotka Autonomous Okrug",
+            "value": {
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6077,7 +6117,7 @@
         {
             "key": "Russia_Irkutsk Oblast",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6125,7 +6165,7 @@
         {
             "key": "Russia_Kamchatka Krai",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6142,6 +6182,14 @@
             "key": "Russia_Kemerov Oblast",
             "value": {
                 "profileName": "small",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "Russia_Khabarovsk Krai",
+            "value": {
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6165,7 +6213,7 @@
         {
             "key": "Russia_Komi Republic",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6197,7 +6245,7 @@
         {
             "key": "Russia_Krasnoyarsk Krai_South",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6245,7 +6293,7 @@
         {
             "key": "Russia_Magadan Oblast",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6381,7 +6429,7 @@
         {
             "key": "Russia_Primorsky Krai",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6531,6 +6579,14 @@
             }
         },
         {
+            "key": "Russia_Tomsk Oblast",
+            "value": {
+                "profileName": "extra_small",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
             "key": "Russia_Tula Oblast",
             "value": {
                 "profileName": "high_f2",
@@ -6541,7 +6597,7 @@
         {
             "key": "Russia_Tuva",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6613,7 +6669,7 @@
         {
             "key": "Russia_Yamalo-Nenets Autonomous Okrug",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6629,7 +6685,15 @@
         {
             "key": "Russia_Yugra_Khanty",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
+                "tileCoordsSubset": [],
+                "tilesAreBanned": false
+            }
+        },
+        {
+            "key": "Russia_Yugra_Surgut",
+            "value": {
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6637,7 +6701,7 @@
         {
             "key": "Russia_Zabaykalsky Krai",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -6989,7 +7053,7 @@
         {
             "key": "South Sudan",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -7205,7 +7269,7 @@
         {
             "key": "Sudan_East",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -7213,7 +7277,7 @@
         {
             "key": "Sudan_West",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -7261,7 +7325,7 @@
         {
             "key": "Sweden_Norra Sverige",
             "value": {
-                "profileName": "poor",
+                "profileName": "normal",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -7389,7 +7453,7 @@
         {
             "key": "Tajikistan",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -7549,7 +7613,7 @@
         {
             "key": "Turkmenistan",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -8213,7 +8277,7 @@
         {
             "key": "US_Idaho_North",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -8557,7 +8621,7 @@
         {
             "key": "US_Montana_East",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -8589,7 +8653,7 @@
         {
             "key": "US_Nevada",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -9149,7 +9213,7 @@
         {
             "key": "US_Wyoming",
             "value": {
-                "profileName": "poor",
+                "profileName": "extra_small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
@@ -9157,7 +9221,7 @@
         {
             "key": "Uzbekistan",
             "value": {
-                "profileName": "poor",
+                "profileName": "small",
                 "tileCoordsSubset": [],
                 "tilesAreBanned": false
             }
