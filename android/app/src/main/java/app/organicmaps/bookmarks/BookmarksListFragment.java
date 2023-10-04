@@ -778,12 +778,6 @@ public class BookmarksListFragment extends BaseMwmRecyclerFragment<ConcatAdapter
   }
 
   @Override
-  public void onBookmarksLoadingStarted()
-  {
-    // No op.
-  }
-
-  @Override
   public void onBookmarksLoadingFinished()
   {
     View view = getView();
@@ -794,12 +788,6 @@ public class BookmarksListFragment extends BaseMwmRecyclerFragment<ConcatAdapter
     onViewCreatedInternal(view);
     updateRecyclerVisibility();
     updateLoadingPlaceholder(view, false);
-  }
-
-  @Override
-  public void onBookmarksFileLoaded(boolean success)
-  {
-    // No op.
   }
 
   private void updateLoadingPlaceholder(@NonNull View root, boolean isShowLoadingPlaceholder)
