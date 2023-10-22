@@ -17890,7 +17890,7 @@
     nl = Gelieve Organic Maps bij te werken
     pl = Zaktualizuj Organic Maps
     pt = Atualize o Organic Maps
-    pt-BR = Atualize o Organic Maps
+    pt-BR = Por Favor Atualize o Organic Maps
     ro = Actualizează Organic Maps
     ru = Обновите Organic Maps
     sk = Aktualizujte si aplikáciu Organic Maps
