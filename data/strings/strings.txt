@@ -2232,7 +2232,7 @@
     nl = Kaarten opslaan in
     pl = Zapisz mapy do
     pt = Guardar mapas em
-    pt-BR = Salvar mapas para
+    pt-BR = Salvar mapas no
     ro = Salvează hărțile în
     ru = Сохранять карты в
     sk = Uložiť mapy do
@@ -4905,7 +4905,7 @@
     nl = Nachtmodus
     pl = Tryb nocny
     pt = Modo noturno
-    pt-BR = Modo noturno
+    pt-BR = Modo Escuro
     ro = Mod nocturn
     ru = Ночной режим
     sk = Nočný režim
@@ -17479,7 +17479,7 @@
     nl = Mobiel internet gebruiken om gedetailleerde informatie weer te geven?
     pl = Wykorzystać dane mobilne, aby wyświetlić dane szczegółowe?
     pt = Utilizar os dados móveis para mostrar informações detalhadas?
-    pt-BR = Utilizar a internet móvel para mostrar informações detalhadas?
+    pt-BR = Usar os dados móveis para mostrar informações detalhadas?
     ro = Folosești internetul mobil pentru a vedea informaţii detaliate?
     ru = Загружать дополнительную информацию через мобильный интернет?
     sk = Použiť mobilný internet na zobrazenie podrobnejších informácií?
@@ -17643,7 +17643,7 @@
     nl = Mobiel Internet
     pl = Dane mobilne
     pt = Dados móveis
-    pt-BR = Internet Móvel
+    pt-BR = Dados Móveis
     ro = Internet mobil
     ru = Мобильный интернет
     sk = Mobilný internet
@@ -17685,7 +17685,7 @@
     nl = Mobiel internet is vereist voor het weergeven van gedetailleerde informatie over plaatsen, zoals foto's, prijzen en beoordelingen.
     pl = Dane mobilne są wymagane do powiadomień o aktualizacji map i wyświetlania dokładniejszych informacji o miejscach i zakładkach.
     pt = Para visualizar informações detalhadas sobre os locais, tais como fotografias, preços e avaliações, é necessário acesso à internet móvel.
-    pt-BR = Para visualizar informações detalhadas sobre os locais, tais como fotos, preços e análises, é necessário acesso à internet móvel.
+    pt-BR = Para visualizar informações detalhadas sobre os locais, como fotos, preços e análises, é necessário acesso ao Dados Móveis.
     ro = Internetul mobil este necesar pentru a afișa informaţii detaliate despre locuri generale și cele preferate.
     ru = Мобильный интернет требуется для уведомлений об обновлении карты и для отображения более подробной информации о местах и метках.
     sk = Na zobrazenie podrobnejších informácií o miestach, napríklad fotografií, cien a recenzií, sa vyžaduje mobilný internet.
@@ -18015,7 +18015,7 @@
     nl = Logboekregistratie inschakelen
     pl = Włącz zbieranie danych
     pt = Ativar o histórico
-    pt-BR = Ativar o histórico
+    pt-BR = Ativar Logging
     ro = Activează jurnalizarea
     ru = Включить запись логов
     sk = Zapnúť zaznamenávanie
@@ -21652,7 +21652,7 @@
     nl = Als de energiebesparende modus is ingeschakeld, schakelt de app de energieverbruikende functies uit afhankelijk van de huidige lading van de mobiele telefoon
     pl = Jeśli jest włączony tryb oszczędzania energii, wtedy aplikacja wyłączy funkcje energochłonne, zależnie od bieżącego poziomu załadowania telefonu
     pt = Se o modo automático estiver ativado, a aplicação vai desativar as funções que consomem energia, dependendo da carga atual do telemóvel
-    pt-BR = Quando o modo automático é selecionado, o aplicativo começa a desativar as características que drenam a bateria dependendo do nível de energia atual
+    pt-BR = Quando o modo automático é selecionado, o aplicativo começa a desativar coisas que drenam a bateria dependendo do nível de energia atual
     ro = Dacă este pornit modul de economisire a energiei, aplicația va deconecta funcțiile care consumă multă energie în dependență de nivelul de încărcare a bateriei
     ru = Если режим энергосбережения включен, приложение будет отключать энергозатратные функции в зависимости от текущего заряда телефона
     sk = Keď je zvolený automatický režim, aplikácia začne vypínať funkcie, ktoré vybíjajú batériu v závislosti od aktuálnej úrovne nabitia batérie
@@ -26186,7 +26186,7 @@
     nl = Laat het scherm slapen
     pl = Pozwól na wygaszanie ekranu
     pt = Permitir que o ecrã desligue
-    pt-BR = Permitir que a tela hiberne
+    pt-BR = Permitir que a tela apague
     ro = Permite ecranului să se stingă
     ru = Разрешить экрану спать
     sk = Nechajte obrazovku spať
